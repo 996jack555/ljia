@@ -1,0 +1,7 @@
+requests
+time
+time 
+re 
+csv
+BeautifulSoup
+codecs
