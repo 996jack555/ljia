@@ -45,7 +45,7 @@ BeautifulSoup(requests.get(url, headers=headers).text, 'lxml')
 
 等待获取所有csv文件中所有的位置信息即可输出到本地文档
 
-author : zjl , yzh ，csy , ztc ，zkj , zwj
+author : zjl 
 
 qq:2480657459
 
